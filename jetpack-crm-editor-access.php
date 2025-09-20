@@ -1,12 +1,14 @@
 <?php
 /**
  * Plugin Name: Zero BS CRM Editor Access
- * Plugin URI: https://github.com/yourusername/zero-bs-crm-editor-access
+ * Plugin URI: https://github.com/flexseth/zero-bs-crm-editor-and-crm-user
  * Description: Automatically grants Editor role capabilities to users with Zero BS CRM Admin (Full CRM Permissions) role, allowing them to manage both CRM data and WordPress posts.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires at least: 5.0
+ * Tested up to: 6.8
  * Requires PHP: 7.4
- * Author: Your Name
+ * Author: Seth Miller
+ * Author URI: https://flexperception.com
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: zero-bs-crm-editor-and-crm-user
