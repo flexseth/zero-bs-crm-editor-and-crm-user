@@ -3,16 +3,12 @@ Contributors: flexseth
 Tags: crm, editor, permissions, zero-bs-crm, user-roles
 Requires at least: 5.0
 Tested up to: 6.8
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Automatically grants Editor role capabilities to users with Zero BS CRM Admin permissions.
-
-As Zero BS CRM works out of the box, your best CRM users can't also be Editors for posts and pages. 
-
-This plugin changest that.
+Grants Editor access to Zero BS CRM Admins for managing posts and pages alongside CRM data.
 
 == Description ==
 
